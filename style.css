@@ -1,0 +1,12 @@
+table.undos {
+    border: red 1px solid;
+}
+td.a {
+    border: blue 1px solid;
+}
+table.verde {
+    border: green 1px solid;
+}
+td.verde {
+    border: green 1px solid;
+}
